@@ -5,7 +5,7 @@ This project demonstrates the parallel execution of three algorithms using Pytho
 - Circular Queue Implementation
 - Word Frequency Analysis
 - Password Validation
-- 
+
 Each algorithm reads input from files in a sub-folder and runs concurrently using threads
 
 
